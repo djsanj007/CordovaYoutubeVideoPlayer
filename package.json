@@ -1,0 +1,21 @@
+{
+    "name": "com.bunkerpalace.cordova.YoutubeVideoPlayer",
+    "version": "1.0.5",
+    "cordova": {
+        "id": "com.bunkerpalace.cordova.YoutubeVideoPlayer",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "engines": {
+        "cordovaDependencies": {
+            "0.2.3": {
+                "cordova": ">=3.1.0"
+            },
+            "2.0.0": {
+                "cordova": ">100"
+            }
+        }
+    }
+}
